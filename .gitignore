@@ -7,5 +7,5 @@ tmp/
 config/**/*
 !config/.gitkeep
 
-data/**/*
+
 !data/.gitkeep
